@@ -9,9 +9,7 @@ const Footer = () => {
                             <div className="widget-title">
                                 <h3>About US</h3>
                             </div>
-                            <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus
-                                faucibus bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque
-                                penatibus et magnis dis montes.</p>
+                            <p> The College of Technology (COT) of the university of Buea was created as a component of the university by decree No.93/034 of 19 January 1993. The college is dedicated in providing high quality education.</p>
                             <div className="footer-right">
                                 <ul className="footer-links-soi">
                                     <li><a href="#"><i className="fa fa-facebook"></i></a></li>

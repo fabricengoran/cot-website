@@ -205,18 +205,15 @@ const Body = () => {
                                     <div className="col-md-4">
                                         <div className="pricing-table pricing-table-highlighted">
                                             <div className="pricing-table-header grd1">
-                                                <h2>$45</h2>
+                                                <h2>45k FCFA</h2>
                                                 <h3>per month</h3>
                                             </div>
                                             <div className="pricing-table-space"></div>
                                             <div className="pricing-table-features">
-                                                <p><i className="fa fa-envelope-o"></i> <strong>250</strong> Email Addresses
+                                                 <p><i className="fa fa-school"></i> <strong>20</strong> Courses
                                                 </p>
-                                                <p><i className="fa fa-rocket"></i> <strong>125GB</strong> of Storage</p>
-                                                <p><i className="fa fa-database"></i> <strong>140</strong> Databases</p>
-                                                <p><i className="fa fa-link"></i> <strong>60</strong> Domains</p>
-                                                <p><i className="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong>
-                                                    Support</p>
+                                                <p><i className="fa fa-clock"></i> <strong>130</strong> hours of lectures</p>
+                                                <p><i className="fa fa-certificate"></i> <strong>1</strong> certificate</p>
                                             </div>
                                             <div className="pricing-table-sign-up">
                                                 <a href="#" className="hover-btn-new orange"><span>Order Now</span></a>
@@ -226,21 +223,18 @@ const Body = () => {
                                     <div className="col-md-4">
                                         <div className="pricing-table pricing-table-highlighted">
                                             <div className="pricing-table-header grd1">
-                                                <h2>$59</h2>
+                                                <h2>59k FCFA</h2>
                                                 <h3>per month</h3>
                                             </div>
                                             <div className="pricing-table-space"></div>
                                             <div className="pricing-table-features">
-                                                <p><i className="fa fa-envelope-o"></i> <strong>150</strong> Email Addresses
+                                                <p><i className="fa fa-school"></i> <strong>20</strong> Courses
                                                 </p>
-                                                <p><i className="fa fa-rocket"></i> <strong>65GB</strong> of Storage</p>
-                                                <p><i className="fa fa-database"></i> <strong>60</strong> Databases</p>
-                                                <p><i className="fa fa-link"></i> <strong>30</strong> Domains</p>
-                                                <p><i className="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong>
-                                                    Support</p>
+                                                <p><i className="fa fa-clock"></i> <strong>130</strong> hours of lectures</p>
+                                                <p><i className="fa fa-certificate"></i> <strong>1</strong> certificate</p>
                                             </div>
                                             <div className="pricing-table-sign-up">
-                                                <a href="#" className="hover-btn-new orange"><span>Order Now</span></a>
+                                                <a href="#" className="hover-btn-new orange"><span>Register Now</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -248,18 +242,15 @@ const Body = () => {
                                     <div className="col-md-4">
                                         <div className="pricing-table pricing-table-highlighted">
                                             <div className="pricing-table-header grd1">
-                                                <h2>$85</h2>
+                                                <h2>85k FCFA</h2>
                                                 <h3>per month</h3>
                                             </div>
                                             <div className="pricing-table-space"></div>
                                             <div className="pricing-table-features">
-                                                <p><i className="fa fa-envelope-o"></i> <strong>250</strong> Email Addresses
+                                                 <p><i className="fa fa-school"></i> <strong>20</strong> Courses
                                                 </p>
-                                                <p><i className="fa fa-rocket"></i> <strong>125GB</strong> of Storage</p>
-                                                <p><i className="fa fa-database"></i> <strong>140</strong> Databases</p>
-                                                <p><i className="fa fa-link"></i> <strong>60</strong> Domains</p>
-                                                <p><i className="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong>
-                                                    Support</p>
+                                                <p><i className="fa fa-clock"></i> <strong>130</strong> hours of lectures</p>
+                                                <p><i className="fa fa-certificate"></i> <strong>1</strong> certificate</p>
                                             </div>
                                             <div className="pricing-table-sign-up">
                                                 <a href="#" className="hover-btn-new orange"><span>Apply Now</span></a>
@@ -274,42 +265,36 @@ const Body = () => {
                                     <div className="col-md-4">
                                         <div className="pricing-table pricing-table-highlighted">
                                             <div className="pricing-table-header grd1">
-                                                <h2>$477</h2>
+                                                <h2>477k FCFA</h2>
                                                 <h3>Year</h3>
                                             </div>
                                             <div className="pricing-table-space"></div>
                                             <div className="pricing-table-features">
-                                                <p><i className="fa fa-envelope-o"></i> <strong>250</strong> Email Addresses
+                                                 <p><i className="fa fa-school"></i> <strong>20</strong> Courses
                                                 </p>
-                                                <p><i className="fa fa-rocket"></i> <strong>125GB</strong> of Storage</p>
-                                                <p><i className="fa fa-database"></i> <strong>140</strong> Databases</p>
-                                                <p><i className="fa fa-link"></i> <strong>60</strong> Domains</p>
-                                                <p><i className="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong>
-                                                    Support</p>
+                                                <p><i className="fa fa-clock"></i> <strong>130</strong> hours of lectures</p>
+                                                <p><i className="fa fa-certificate"></i> <strong>1</strong> certificate</p>
                                             </div>
                                             <div className="pricing-table-sign-up">
-                                                <a href="#" className="hover-btn-new orange"><span>Order Now</span></a>
+                                                <a href="#" className="hover-btn-new orange"><span>Register Now</span></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-md-4">
                                         <div className="pricing-table pricing-table-highlighted">
                                             <div className="pricing-table-header grd1">
-                                                <h2>$485</h2>
+                                                <h2>485k FCFA</h2>
                                                 <h3>Year</h3>
                                             </div>
                                             <div className="pricing-table-space"></div>
                                             <div className="pricing-table-features">
-                                                <p><i className="fa fa-envelope-o"></i> <strong>150</strong> Email Addresses
+                                                <p><i className="fa fa-school"></i> <strong>20</strong> Courses
                                                 </p>
-                                                <p><i className="fa fa-rocket"></i> <strong>65GB</strong> of Storage</p>
-                                                <p><i className="fa fa-database"></i> <strong>60</strong> Databases</p>
-                                                <p><i className="fa fa-link"></i> <strong>30</strong> Domains</p>
-                                                <p><i className="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong>
-                                                    Support</p>
+                                                <p><i className="fa fa-clock"></i> <strong>130</strong> hours of lectures</p>
+                                                <p><i className="fa fa-certificate"></i> <strong>1</strong> certificate</p>
                                             </div>
                                             <div className="pricing-table-sign-up">
-                                                <a href="#" className="hover-btn-new orange"><span>Order Now</span></a>
+                                                <a href="#" className="hover-btn-new orange"><span>Register Now</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -317,21 +302,18 @@ const Body = () => {
                                     <div className="col-md-4">
                                         <div className="pricing-table pricing-table-highlighted">
                                             <div className="pricing-table-header grd1">
-                                                <h2>$500</h2>
+                                                <h2>500k FCFA</h2>
                                                 <h3>Year</h3>
                                             </div>
                                             <div className="pricing-table-space"></div>
                                             <div className="pricing-table-features">
-                                                <p><i className="fa fa-envelope-o"></i> <strong>250</strong> Email Addresses
+                                                 <p><i className="fa fa-school"></i> <strong>20</strong> Courses
                                                 </p>
-                                                <p><i className="fa fa-rocket"></i> <strong>125GB</strong> of Storage</p>
-                                                <p><i className="fa fa-database"></i> <strong>140</strong> Databases</p>
-                                                <p><i className="fa fa-link"></i> <strong>60</strong> Domains</p>
-                                                <p><i className="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong>
-                                                    Support</p>
+                                                <p><i className="fa fa-clock"></i> <strong>130</strong> hours of lectures</p>
+                                                <p><i className="fa fa-certificate"></i> <strong>1</strong> certificate</p>
                                             </div>
                                             <div className="pricing-table-sign-up">
-                                                <a href="#" className="hover-btn-new orange"><span>Order Now</span></a>
+                                                <a href="#" className="hover-btn-new orange"><span>Register Now</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -343,42 +325,36 @@ const Body = () => {
                                     <div className="col-md-4">
                                         <div className="pricing-table pricing-table-highlighted">
                                             <div className="pricing-table-header grd1">
-                                                <h2>$477</h2>
+                                                <h2>477k FCFA</h2>
                                                 <h3>Year</h3>
                                             </div>
                                             <div className="pricing-table-space"></div>
                                             <div className="pricing-table-features">
-                                                <p><i className="fa fa-envelope-o"></i> <strong>250</strong> Email Addresses
+                                                 <p><i className="fa fa-school"></i> <strong>20</strong> Courses
                                                 </p>
-                                                <p><i className="fa fa-rocket"></i> <strong>125GB</strong> of Storage</p>
-                                                <p><i className="fa fa-database"></i> <strong>140</strong> Databases</p>
-                                                <p><i className="fa fa-link"></i> <strong>60</strong> Domains</p>
-                                                <p><i className="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong>
-                                                    Support</p>
+                                                <p><i className="fa fa-clock"></i> <strong>130</strong> hours of lectures</p>
+                                                <p><i className="fa fa-certificate"></i> <strong>1</strong> certificate</p>
                                             </div>
                                             <div className="pricing-table-sign-up">
-                                                <a href="#" className="hover-btn-new orange"><span>Order Now</span></a>
+                                                <a href="#" className="hover-btn-new orange"><span>Register Now</span></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-md-4">
                                         <div className="pricing-table pricing-table-highlighted">
                                             <div className="pricing-table-header grd1">
-                                                <h2>$485</h2>
+                                                <h2>485k FCFA</h2>
                                                 <h3>Year</h3>
                                             </div>
                                             <div className="pricing-table-space"></div>
                                             <div className="pricing-table-features">
-                                                <p><i className="fa fa-envelope-o"></i> <strong>150</strong> Email Addresses
+                                                <p><i className="fa fa-school"></i> <strong>20</strong> Courses
                                                 </p>
-                                                <p><i className="fa fa-rocket"></i> <strong>65GB</strong> of Storage</p>
-                                                <p><i className="fa fa-database"></i> <strong>60</strong> Databases</p>
-                                                <p><i className="fa fa-link"></i> <strong>30</strong> Domains</p>
-                                                <p><i className="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong>
-                                                    Support</p>
+                                                <p><i className="fa fa-clock"></i> <strong>130</strong> hours of lectures</p>
+                                                <p><i className="fa fa-certificate"></i> <strong>1</strong> certificate</p>
                                             </div>
                                             <div className="pricing-table-sign-up">
-                                                <a href="#" className="hover-btn-new orange"><span>Order Now</span></a>
+                                                <a href="#" className="hover-btn-new orange"><span>Register Now</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -386,21 +362,18 @@ const Body = () => {
                                     <div className="col-md-4">
                                         <div className="pricing-table pricing-table-highlighted">
                                             <div className="pricing-table-header grd1">
-                                                <h2>$500</h2>
+                                                <h2>500k FCFA</h2>
                                                 <h3>Year</h3>
                                             </div>
                                             <div className="pricing-table-space"></div>
                                             <div className="pricing-table-features">
-                                                <p><i className="fa fa-envelope-o"></i> <strong>250</strong> Email Addresses
+                                                 <p><i className="fa fa-school"></i> <strong>20</strong> Courses
                                                 </p>
-                                                <p><i className="fa fa-rocket"></i> <strong>125GB</strong> of Storage</p>
-                                                <p><i className="fa fa-database"></i> <strong>140</strong> Databases</p>
-                                                <p><i className="fa fa-link"></i> <strong>60</strong> Domains</p>
-                                                <p><i className="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong>
-                                                    Support</p>
+                                                <p><i className="fa fa-clock"></i> <strong>130</strong> hours of lectures</p>
+                                                <p><i className="fa fa-certificate"></i> <strong>1</strong> certificate</p>
                                             </div>
                                             <div className="pricing-table-sign-up">
-                                                <a href="#" className="hover-btn-new orange"><span>Order Now</span></a>
+                                                <a href="#" className="hover-btn-new orange"><span>Register Now</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -412,42 +385,36 @@ const Body = () => {
                                     <div className="col-md-4">
                                         <div className="pricing-table pricing-table-highlighted">
                                             <div className="pricing-table-header grd1">
-                                                <h2>$477</h2>
+                                                <h2>477k FCFA</h2>
                                                 <h3>Year</h3>
                                             </div>
                                             <div className="pricing-table-space"></div>
                                             <div className="pricing-table-features">
-                                                <p><i className="fa fa-envelope-o"></i> <strong>250</strong> Email Addresses
+                                                 <p><i className="fa fa-school"></i> <strong>20</strong> Courses
                                                 </p>
-                                                <p><i className="fa fa-rocket"></i> <strong>125GB</strong> of Storage</p>
-                                                <p><i className="fa fa-database"></i> <strong>140</strong> Databases</p>
-                                                <p><i className="fa fa-link"></i> <strong>60</strong> Domains</p>
-                                                <p><i className="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong>
-                                                    Support</p>
+                                                <p><i className="fa fa-clock"></i> <strong>130</strong> hours of lectures</p>
+                                                <p><i className="fa fa-certificate"></i> <strong>1</strong> certificate</p>
                                             </div>
                                             <div className="pricing-table-sign-up">
-                                                <a href="#" className="hover-btn-new orange"><span>Order Now</span></a>
+                                                <a href="#" className="hover-btn-new orange"><span>Register Now</span></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-md-4">
                                         <div className="pricing-table pricing-table-highlighted">
                                             <div className="pricing-table-header grd1">
-                                                <h2>$485</h2>
+                                                <h2>485k FCFA</h2>
                                                 <h3>Year</h3>
                                             </div>
                                             <div className="pricing-table-space"></div>
                                             <div className="pricing-table-features">
-                                                <p><i className="fa fa-envelope-o"></i> <strong>150</strong> Email Addresses
+                                                <p><i className="fa fa-school"></i> <strong>20</strong> Courses
                                                 </p>
-                                                <p><i className="fa fa-rocket"></i> <strong>65GB</strong> of Storage</p>
-                                                <p><i className="fa fa-database"></i> <strong>60</strong> Databases</p>
-                                                <p><i className="fa fa-link"></i> <strong>30</strong> Domains</p>
-                                                <p><i className="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong>
-                                                    Support</p>
+                                                <p><i className="fa fa-clock"></i> <strong>130</strong> hours of lectures</p>
+                                                <p><i className="fa fa-certificate"></i> <strong>1</strong> certificate</p>
                                             </div>
                                             <div className="pricing-table-sign-up">
-                                                <a href="#" className="hover-btn-new orange"><span>Order Now</span></a>
+                                                <a href="#" className="hover-btn-new orange"><span>Register Now</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -455,21 +422,18 @@ const Body = () => {
                                     <div className="col-md-4">
                                         <div className="pricing-table pricing-table-highlighted">
                                             <div className="pricing-table-header grd1">
-                                                <h2>$500</h2>
+                                                <h2>500k FCFA</h2>
                                                 <h3>Year</h3>
                                             </div>
                                             <div className="pricing-table-space"></div>
                                             <div className="pricing-table-features">
-                                                <p><i className="fa fa-envelope-o"></i> <strong>250</strong> Email Addresses
+                                                <p><i className="fa fa-school"></i> <strong>20</strong> Courses
                                                 </p>
-                                                <p><i className="fa fa-rocket"></i> <strong>125GB</strong> of Storage</p>
-                                                <p><i className="fa fa-database"></i> <strong>140</strong> Databases</p>
-                                                <p><i className="fa fa-link"></i> <strong>60</strong> Domains</p>
-                                                <p><i className="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong>
-                                                    Support</p>
+                                                <p><i className="fa fa-clock"></i> <strong>130</strong> hours of lectures</p>
+                                                <p><i className="fa fa-certificate"></i> <strong>1</strong> certificate</p>
                                             </div>
                                             <div className="pricing-table-sign-up">
-                                                <a href="#" className="hover-btn-new orange"><span>Order Now</span></a>
+                                                <a href="#" className="hover-btn-new orange"><span>Register Now</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -485,9 +449,9 @@ const Body = () => {
             style={{backgroundImage: "url('images/IMG_20210611_104246_150.jpg')"}}>
             <div className="container">
                 <div className="section-title text-center">
-                    <h3>Testimonials</h3>
-                    <p>Lorem ipsum dolor sit aet, consectetur adipisicing lit sed do eiusmod tempor incididunt ut labore
-                        et dolore magna aliqua. </p>
+                    <h3>UNIVERSITY OF BUEA FROM THE AIR</h3>
+                    <iframe width="926" height="521" src="https://www.youtube.com/embed/6Mrwa_q62ZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <p>Get a good and close view of the University of Buea and enjoy. </p>
                 </div>
 
                 <div className="row">
