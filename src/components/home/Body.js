@@ -34,14 +34,14 @@ const Body = () => {
 
                     <div className="col-xl-6 col-lg-6 col-md-12 col-sm-12">
                         <div className="post-media wow fadeIn">
-                            <img src="images/about_02.jpg" alt="" className="img-fluid img-rounded" />
+                            <img src="images/IMG_20210611_104454_680.jpg" alt="" className="img-fluid img-rounded" />
                         </div>
                     </div>
                 </div>
                 <div className="row align-items-center">
                     <div className="col-xl-6 col-lg-6 col-md-12 col-sm-12">
                         <div className="post-media wow fadeIn">
-                            <img src="images/about_03.jpg" alt="" className="img-fluid img-rounded" />
+                            <img src="images/IMG_20210611_104225_800.jpg" alt="" className="img-fluid img-rounded" />
                         </div>
                     </div>
 
@@ -71,8 +71,7 @@ const Body = () => {
                 <div className="section-title row text-center">
                     <div className="col-md-8 offset-md-2">
                         <h3>Our history</h3>
-                        <p className="lead">Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
-                            lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem!</p>
+                        <p className="lead">The College of Technology (COT) of the university of Buea was created as a component of the university by decree No.93/034 of 19 January 1993.</p>
                     </div>
                 </div>
                 <div className="timeline">
@@ -483,7 +482,7 @@ const Body = () => {
         </div>
 
         <div id="testimonials" className="parallax section db parallax-off"
-            style={{backgroundImage: "url('images/parallax_04.jpg')"}}>
+            style={{backgroundImage: "url('images/IMG_20210611_104246_150.jpg')"}}>
             <div className="container">
                 <div className="section-title text-center">
                     <h3>Testimonials</h3>

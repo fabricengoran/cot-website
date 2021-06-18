@@ -9,7 +9,7 @@ const Hero = () => {
             </ol>
             <div className="carousel-inner" role="listbox">
                 <div className="carousel-item active">
-                    <div id="home1" className="first-section" style={{ backgroundImage: "url('images/slider-01.jpg')" }}>
+                    <div id="home1" className="first-section" style={{ backgroundImage: "url('images/20210526_165257.jpg')" }}>
                         <div className="dtab">
                             <div className="container">
                                 <div className="row">
@@ -28,7 +28,7 @@ const Hero = () => {
                     </div>
                 </div>
                 <div className="carousel-item">
-                    <div id="home2" className="first-section" style={{ backgroundImage: "url('images/slider-02.jpg')" }}>
+                    <div id="home2" className="first-section" style={{ backgroundImage: "url('images/IMG_20210421_161438_430.jpg')" }}>
                         <div className="dtab">
                             <div className="container">
                                 <div className="row">
@@ -47,7 +47,7 @@ const Hero = () => {
                     </div>
                 </div>
                 <div className="carousel-item">
-                    <div id="home3" className="first-section" style={{backgroundImage: "url('images/slider-03.jpg')"}}>
+                    <div id="home3" className="first-section" style={{backgroundImage: "url('images/IMG_20201213_161622_627.jpg')"}}>
                         <div className="dtab">
                             <div className="container">
                                 <div className="row">
